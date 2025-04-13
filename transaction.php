@@ -14,6 +14,7 @@
 
 ?>
 <?php include 'includes/header.php'; ?>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <body class="hold-transition skin-green layout-top-nav">
 <div class="wrapper">
 
